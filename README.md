@@ -13,7 +13,7 @@
    ```
 3. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/USERNAME/REPO_NAME.git
+   git clone https://github.com/Mikle-kekich/KR5-Front-Back
    ```
 4. Перейдите в папку проекта:
    ```bash
